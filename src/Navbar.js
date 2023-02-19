@@ -8,9 +8,9 @@ export default function Navbar() {
             </Link>
             <ul>
                 <CustomLink to="/animals">Animals</CustomLink>
-                <CustomLink to="/contact">Contact</CustomLink>
-                <CustomLink to="/about">About</CustomLink>
                 <CustomLink to="/donate">Donate</CustomLink>
+                <CustomLink to="/about">About</CustomLink>
+                <CustomLink to="/contact">Contact</CustomLink>
                 <CustomLink to="/signup">Signup</CustomLink>
             </ul>
         </nav>
